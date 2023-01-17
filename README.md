@@ -1,5 +1,5 @@
 # PythonProject
 
-## Editing the file
+## Final Capstone Project
 
-It's a markdown file in this repository.
+Here is my data science project regarding SpaceX!
